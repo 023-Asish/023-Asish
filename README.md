@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/asishchowdhur13" target="blank"><img src="https://img.shields.io/twitter/follow/asishchowdhur13?logo=twitter&style=for-the-badge" alt="asishchowdhur13" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **asish.malda17@gmail.com**
 
